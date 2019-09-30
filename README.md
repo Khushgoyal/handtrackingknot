@@ -1,4 +1,4 @@
-# handtrackingknot
+# Classical Machine Learning applied to surgical knot analysis( hand tracking knot )
 
 
 This thesis project focuses on the automated framework for video-based surgical knot assessment that is building on the work of the Irfan Essa's paper "Video Based Assessment of OSATS Using Sequential Motion Textures". He showed assessments using the OSATS (Objective Structured Assessment of Technical Skills) criteria, whereas this thesis focuses on the following aspects

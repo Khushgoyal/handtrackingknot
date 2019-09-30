@@ -24,20 +24,30 @@ After whole process we got 1D array from more than 10k-40k STIP points of moveab
 We got the corelation data after distribution
 <img width="907" alt="co" src="https://user-images.githubusercontent.com/44482765/65905972-86b56300-e3b9-11e9-8652-24c15247d60f.png">
 
-Confusion Matrix of the results using linear kernel-
+
+Confusion Matrix of the results using linear kernel.
 <img width="350" alt="con1" src="https://user-images.githubusercontent.com/44482765/65905993-8e750780-e3b9-11e9-8732-c33bbc2da60b.png">
 
-Confusion Matrix of the results using rbf kernel-
+
+
+
+Confusion Matrix of the results using rbf kernel.
 <img width="334" alt="con2" src="https://user-images.githubusercontent.com/44482765/65906014-99c83300-e3b9-11e9-9f0d-b851618bda22.png">
 
-Confusion Matrix of the results using poly kernel-
+
+
+Confusion Matrix of the results using poly kernel.
 <img width="323" alt="con3" src="https://user-images.githubusercontent.com/44482765/65906075-b82e2e80-e3b9-11e9-9bb7-6e14b46dc71e.png">
+
+
 
 
 Finally, we got accuracy of 90 degree camera position
 <img width="400" alt="Screenshot 2019-09-30 at 7 37 34 PM" src="https://user-images.githubusercontent.com/44482765/65906184-f297cb80-e3b9-11e9-8d96-b9f52b7d8bb1.png">
 
-and Accuracy for egocentric data
+
+
+and Accuracy for egocentric data.
 <img width="407" alt="Screenshot 2019-09-30 at 7 37 39 PM" src="https://user-images.githubusercontent.com/44482765/65906188-f4fa2580-e3b9-11e9-9d22-40f961b08956.png">
 
 
